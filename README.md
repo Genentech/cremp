@@ -1,6 +1,6 @@
 # CREMP
 
-Generate conformer ensembles using CREST. Used to generate the [CREMP database](https://zenodo.org/doi/10.5281/zenodo.7931444) described in [CREMP: Conformer-Rotamer Ensembles of Macrocyclic Peptides for Machine Learning](https://arxiv.org/abs/2305.08057).
+Generate conformer ensembles using CREST. Used to generate the [CREMP database](https://zenodo.org/doi/10.5281/zenodo.7931444) and the [CREMP-CycPeptMPDB database](https://zenodo.org/doi/10.5281/zenodo.10798261) described in [CREMP: Conformer-Rotamer Ensembles of Macrocyclic Peptides for Machine Learning](https://arxiv.org/abs/2305.08057).
 
 ![cover](assets/cremp.png)
 
