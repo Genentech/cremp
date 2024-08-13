@@ -1,6 +1,6 @@
 # CREMP
 
-Generate conformer ensembles using CREST. Used to generate the [CREMP database](https://zenodo.org/doi/10.5281/zenodo.7931444) and the [CREMP-CycPeptMPDB database](https://zenodo.org/doi/10.5281/zenodo.10798261) described in [CREMP: Conformer-Rotamer Ensembles of Macrocyclic Peptides for Machine Learning](https://arxiv.org/abs/2305.08057).
+Generate conformer ensembles using CREST. Used to generate the [CREMP database](https://zenodo.org/doi/10.5281/zenodo.7931444) and the [CREMP-CycPeptMPDB database](https://zenodo.org/doi/10.5281/zenodo.10798261) described in [CREMP: Conformer-rotamer ensembles of macrocyclic peptides for machine learning](https://doi.org/10.1038/s41597-024-03698-y).
 
 ![cover](assets/cremp.png)
 
@@ -53,12 +53,14 @@ Licensed under the MIT License. See [LICENSE](LICENSE) for additional details.
 If using the CREMP dataset, please cite
 
 ```
-@misc{grambow2023cremp,
-    title={{CREMP}: Conformer-Rotamer Ensembles of Macrocyclic Peptides for Machine Learning}, 
-    author={Colin A. Grambow and Hayley Weir and Christian N. Cunningham and Tommaso Biancalani and Kangway V. Chuang},
-    year={2023},
-    eprint={2305.08057},
-    archivePrefix={arXiv},
-    primaryClass={q-bio.BM}
+@article{grambow2024cremp,
+    title = {{CREMP: Conformer-rotamer ensembles of macrocyclic peptides for machine learning}},
+    author = {Grambow, Colin A. and Weir, Hayley and Cunningham, Christian N. and Biancalani, Tommaso and Chuang, Kangway V.},
+    year = {2024},
+    journal = {Scientific Data},
+    doi = {10.1038/s41597-024-03698-y},
+    pages = {859},
+    number = {1},
+    volume = {11}
 }
 ```
